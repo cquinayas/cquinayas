@@ -20,7 +20,6 @@ const Skills = {
 - [Portafolio](https://vocal-rabanadas-b1e4b3.netlify.app/)
 
 
-
 <!--
 **cquinayas/cquinayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
