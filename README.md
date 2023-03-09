@@ -1,9 +1,10 @@
 ### Hola, Soy César Quinayás 👋
-
-<h4>Data Science - Henry</h4>
-<h4>PhD Ciencias de la Electrónica - Universidad del Cauca</h4>
-<h4>Magister en Automática - Universidad del Cauca</h4>
-<h4>Ingeniero Físico - Universidad del Cauca</h4>
+<ul>
+  <li>Data Science - Henry</li>
+  <li>PhD Ciencias de la Electrónica - Universidad del Cauca</li>
+  <li>Magister en Automática - Universidad del Cauca</li>
+  <li>Ingeniero Físico - Universidad del Cauca</li>
+</ul>
 
 ```javascript
 const Skills = {
